@@ -1,0 +1,22 @@
+.vscode
+
+# Object and binary files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+
+# Build output files
+Module.symvers
+modules.order
+
+# Kernel build leftovers
+*.cmd
+*.symvers
+*.order
+*.markers
+
+# Backup / temporary files
+*~
+*.swp
