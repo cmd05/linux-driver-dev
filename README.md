@@ -7,7 +7,7 @@
 # Kernel Modules
 
 
-![](./_assets/Pasted image 20250828004805.png)
+![](./_assets/Pasted_image_20250828004805.png)
 
 # Improved Kernel Module
 
@@ -48,7 +48,7 @@ aquila@raspberrypi:/sys/class/gpio $ cat gpiochip569/label
 pinctrl-rp1
 ```
  
-![](./_assets/Pasted image 20250902201257.png)
+![](./_assets/Pasted_image_20250902201257.png)
 
 ![](./_assets/gpio-ckt.jpg)
 
@@ -68,4 +68,4 @@ brw-rw----  1 root disk 179, 0 Sep  2 18:47 /dev/mmcblk0
 
 >  The system call **mknod**() creates a filesystem node (file, device special file, or named pipe) named _pathname_, with attributes specified by _mode_ and _dev_.
 
-![](./_assets/Pasted image 20250902205426.png)
+![](./_assets/Pasted_image_20250902205426.png)
